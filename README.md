@@ -7,7 +7,7 @@ This project consisted of an analysis of a dataset containing information about 
 ## Resources
 
 - Data Source: hawaii.sqlite
-- Software: SQLite
+- Software: Python, SQLite, Jupyter Notebook
 
 ## Results
 
