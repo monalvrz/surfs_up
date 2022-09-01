@@ -19,6 +19,7 @@ After filtering the database to obtain only the data corresponding to the months
 - In the case of December we can see that within the years from 2010 to 2017 the highest temperature they have had is 83°F and the lowest is 56°F. The average is 71°F, which is still a pleasant climate to enjoy the outdoors without being too hot or cold. 
 -  On the one hand, one of the differences between the information collected for June and December is the number of entries for each. Although the difference is not significant, for June we have 1,700 entries and for December we have 1,517.
 -  Another difference that can be observed by analyzing the statistical summary is that December has lower temperatures. The 25% percent of the recorded temperatures are in the range of 56°F and 69°F, a few degrees lower than in the case of June. 
+-  As for the standard deviation, both months present similar results, June with 3.25 and December with 3.74, which could indicate that there is a little more dispersion between the temperatures registered in December.
 
 ## Summary
 
